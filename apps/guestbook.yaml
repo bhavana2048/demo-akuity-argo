@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: 'https://github.com/bhavana2048/intro-argo-cd-tutorial' # Update to match your fork.
     path: guestbook
-    targetRevision: HEAD
+    targetRevision: main
   destination:
     namespace: guestbook
     name: dev # Update this value.
