@@ -10,4 +10,4 @@ spec:
   source:
     path: apps
     repoURL: https://github.com/bhavana2048/intro-argo-cd-tutorial # Update to your repo URL.
-    targetRevision: HEAD
+    targetRevision: main
